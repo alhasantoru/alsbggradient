@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    top: 50%;
+    background: linear-gradient(to right, red, yellow);
+}
+
+h1 {
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 100%;
+}
+
+h3 {
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 100%;
+}
+
